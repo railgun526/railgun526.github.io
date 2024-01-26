@@ -13,31 +13,6 @@ Education
 ======
 * B.S. in Mathematics and Physics + Measurement Control Technology and Instruments, Tsinghua University, 2025
 
-Work experience
-======
-
-  
-Skills
-======
-Python, C++, matlab and etc.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
