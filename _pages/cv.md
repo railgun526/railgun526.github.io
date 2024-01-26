@@ -36,7 +36,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% Still a student %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
